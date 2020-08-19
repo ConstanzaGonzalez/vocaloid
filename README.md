@@ -1,0 +1,2 @@
+# vocaloid
+practica parcial logico
